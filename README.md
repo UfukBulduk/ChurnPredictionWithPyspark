@@ -1,6 +1,6 @@
 # Customer Churn Prediction With Pyspark
 
-![alt text](https://images.app.goo.gl/u66rTwCPPNWoPAR77)
+![alt text](https://github.com/UfukBulduk/ChurnPredictionWithPyspark/blob/main/CustomerChurn.jpeg)
 
 ## Objective 
 It is expected to develop a machine learning model that can predict customers who will leave the company.<br>
