@@ -1,16 +1,16 @@
-# Customer Churn Prediction With Pyspark
+# **Customer Churn Prediction With Pyspark**
 
 ![alt text](https://github.com/UfukBulduk/ChurnPredictionWithPyspark/blob/main/CustomerChurn.jpeg)
 
-## Objective 
+## _Objective_ 
 It is expected to develop a machine learning model that can predict customers who will leave the company.<br>
 
-## About The Dataset
+## _About The Dataset_
 Consists of 10000 observations and 12 variables. <br>
 The independent variables contain information about customers.<br>
 The dependent variable represents the customer abandonment status.<br>
 
-## Variables
+## _Variables_
 
 * Surname         – Customer surname
 * CreditScore     – Customer's credit score
