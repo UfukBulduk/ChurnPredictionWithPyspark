@@ -23,3 +23,5 @@ The dependent variable represents the customer abandonment status.<br>
 * IsActiveMember  – Active Membership status (0=No,1=Yes)
 * EstimatedSalary – Customer's estimated salary
 * Exited:         – Exited or not (0=No,1=Yes)
+
+[VBO BootCamp](https://bootcamp.veribilimiokulu.com/egitim/veri-bilimci-yetistirme-programi)
